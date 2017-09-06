@@ -3,6 +3,7 @@
 // All of the Node.js APIs are available in this process.
 
 
-function first() {
-    alert('233')
-}
+// var myNotification = new Notification('Title', {
+//     body: '你好你好'
+//   });
+  

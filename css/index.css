@@ -1,0 +1,19 @@
+table td,
+table th {
+    border:1px solid #333;
+}
+
+html,body {
+    margin:0;
+    background-color: #66ccff;
+}
+
+/* ::-webkit-scrollbar { display: none; } */
+
+
+
+webview {
+    width: 500px;
+    height: 500px;
+    display: block;
+}

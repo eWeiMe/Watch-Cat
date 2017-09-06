@@ -24,7 +24,7 @@ function createWindow() {
     protocol: 'file:',
     slashes: true
   }), {
-    userAgent: 'Mozilla/5.0 (iPhone; CPU iPhone OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9B176 MicroMessenger/4.3.2',
+    userAgent: 'Mozilla/5.0 (iPhone; CPU iPhone OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9B176 MicroMessenger/4.3.2'
   })
   // mainWindow.loadURL('http://www.zhihu.com')
   // Open the DevTools.
