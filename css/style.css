@@ -1,0 +1,10 @@
+table td,
+table th {
+    border:1px solid #333;
+}
+
+html,body {
+    margin:0;
+}
+
+::-webkit-scrollbar {display:none}
